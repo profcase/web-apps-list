@@ -20,6 +20,7 @@
 - [js-gui-pwa-fact](https://github.com/denisecase/js-gui-pwa-fact)
 - [js-gui-vue](https://github.com/denisecase/js-gui-vue)
 - [node-server](https://github.com/profcase/node-server)
+- [todo-server](https://github.com/profcase/todo-server)
 - [todo-server-jwt](https://github.com/profcase/todo-server-jwt)
 - [node-express-app](https://github.com/denisecase/node-express-app)
 - [node-express-chat](https://github.com/denisecase/node-express-chat)
