@@ -4,7 +4,7 @@
 
 ## Links
 
-- [Demo](https://profcase.github.io/web-apps-list/)
+- [Hosted Page](https://profcase.github.io/web-apps-list/)
 - [Source](https://github.com/profcase/web-apps-list)
 
 ## Examples
