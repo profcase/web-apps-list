@@ -1,6 +1,11 @@
 # web-apps-list
 
->List of repos that illustrate concepts for building web apps
+> List of repos that illustrate concepts for building web apps
+
+## Links
+
+- [Demo](https://profcase.github.io/web-apps-list/)
+- [Source](https://github.com/profcase/web-apps-list)
 
 ## Examples
 
