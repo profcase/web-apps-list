@@ -27,3 +27,10 @@
 - [node-express-mvc](https://github.com/denisecase/node-express-mvc) (DC)
 - [node-express-mvc-ejs-start](https://bitbucket.org/professorcase/node-express-mvc-ejs-start) (BB)
 - [node-express-mvc-ejs-passport](https://bitbucket.org/professorcase/node-express-mvc-ejs-passport) (BB)
+
+### Locations
+
+- <https://github.com/profcase/>
+- <https://github.com/denisecase/> (DC)
+- <https://bitbucket.org/professorcase> (BB)
+
