@@ -34,3 +34,6 @@
 - <https://github.com/denisecase/> (DC)
 - <https://bitbucket.org/professorcase> (BB)
 
+## Script to clone multiple repos (run in the folder that will hold your projects)
+
+- [PowerShell Script to clone all client-side app repos](https://gist.github.com/profcase/976570c98897b75632ce79207ab413e4)
