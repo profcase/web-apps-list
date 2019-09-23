@@ -15,6 +15,7 @@
 - [js-gui-basic](https://github.com/profcase/js-gui-basic)
 - [js-gui](https://github.com/profcase/js-gui)
 - [js-gui-ajax](https://github.com/profcase/js-gui-ajax)
+- [js-gui-scheduling](https://github.com/profcase/js-gui-scheduling)
 - [js-gui-storage](https://github.com/profcase/js-gui-storage)
 - [js-gui-with-tests](https://github.com/profcase/js-gui-with-tests)
 - [js-gui-pwa-fact](https://github.com/denisecase/js-gui-pwa-fact) (DC)
