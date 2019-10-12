@@ -7,7 +7,7 @@
 - [Hosted Page](https://profcase.github.io/web-apps-list/)
 - [Source](https://github.com/profcase/web-apps-list)
 
-## Examples
+## Examples - Client-side
 
 - [js-console](https://github.com/profcase/js-console)
 - [js-colors](https://github.com/profcase/js-colors)
@@ -18,23 +18,27 @@
 - [js-gui-scheduling](https://github.com/profcase/js-gui-scheduling)
 - [js-gui-storage](https://github.com/profcase/js-gui-storage)
 - [js-gui-with-tests](https://github.com/profcase/js-gui-with-tests)
-- [debugging-exercise](https://github.com/mprogers/debugging-exercise)
+- [debugging-exercise](https://github.com/mprogers/debugging-exercise) (MR)
 - [js-gui-pwa-fact](https://github.com/denisecase/js-gui-pwa-fact) (DC)
 - [js-gui-vue](https://github.com/denisecase/js-gui-vue) (DC)
-- [node-server](https://github.com/profcase/node-server)
-- [todo-server](https://github.com/profcase/todo-server)
-- [todo-server-jwt](https://github.com/profcase/todo-server-jwt)
+
+## Examples - Server-side
+
 - [node-express-app](https://github.com/denisecase/node-express-app) (DC)
+- [node-express-fact](https://github.com/denisecase/node-express-fact) (DC)
 - [node-express-chat](https://github.com/denisecase/node-express-chat) (DC)
 - [node-express-mvc](https://github.com/denisecase/node-express-mvc) (DC)
 - [node-express-mvc-ejs-start](https://bitbucket.org/professorcase/node-express-mvc-ejs-start) (BB)
 - [node-express-mvc-ejs-passport](https://bitbucket.org/professorcase/node-express-mvc-ejs-passport) (BB)
+- [todo-server](https://github.com/profcase/todo-server)
+- [todo-server-jwt](https://github.com/profcase/todo-server-jwt)
 
 ### Locations
 
 - <https://github.com/profcase/>
 - <https://github.com/denisecase/> (DC)
 - <https://bitbucket.org/professorcase> (BB)
+- <https://github.com/mprogers> (MR)
 
 ## Script to clone multiple repos (run in the folder that will hold your projects)
 
