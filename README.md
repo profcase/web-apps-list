@@ -28,8 +28,7 @@
 - [node-express-fact](https://github.com/denisecase/node-express-fact) (DC)
 - [node-express-chat](https://github.com/denisecase/node-express-chat) (DC)
 - [node-express-mvc](https://github.com/denisecase/node-express-mvc) (DC)
-- [node-express-mvc-ejs-start](https://bitbucket.org/professorcase/node-express-mvc-ejs-start) (BB)
-- [node-express-mvc-ejs-passport](https://bitbucket.org/professorcase/node-express-mvc-ejs-passport) (BB)
+- [node-express-mvc-ejs-start](https://github.com/denisecase/node-express-mvc-ejs-start) (DC)
 - [todo-server](https://github.com/profcase/todo-server)
 - [todo-server-jwt](https://github.com/profcase/todo-server-jwt)
 
